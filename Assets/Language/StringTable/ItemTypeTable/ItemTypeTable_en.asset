@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ItemTypeTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: be926765df4bdc341a839690abe9679f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 92426682368
+    m_Localized: Bag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153739018240
+    m_Localized: Ammo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197552717824
+    m_Localized: Weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303278538752
+    m_Localized: Cure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353446608896
+    m_Localized: Kit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410451394560
+    m_Localized: Material
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1138388649328640
+    m_Localized: Attachment (Sight)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2194885319802880
+    m_Localized: Attachment (Muzzle)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2197345438482432
+    m_Localized: Attachment (Grib)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2886771810451456
+    m_Localized: Attachment (Extension Magazine - Pistol)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15220183011377152
+    m_Localized: Attachment (Extension Magazine - AR)
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c87c1e3975a226941aa44fc99b942c01, type: 3}
+  m_Name: M16A1
+  m_EditorClassIdentifier: 
+  dropPrefab: {fileID: 3049117845753202052, guid: 8c870d336e623944d8a1bf0ff892f043,
+    type: 3}
+  clip: {fileID: 8300000, guid: 7b8f65dcbcf79a3419705244ba16c0c4, type: 3}
+  weaponName:
+    m_TableReference:
+      m_TableCollectionName: GUID:558b7f7ad6c56624d917ca3eff0b2e8c
+    m_TableEntryReference:
+      m_KeyId: 11948626050760704
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  description:
+    m_TableReference:
+      m_TableCollectionName: GUID:660d81891ed82e44fbd6488ec3714be5
+    m_TableEntryReference:
+      m_KeyId: 11934373004656640
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  weaponForm: 2
+  bulletType: 1
+  damage: 20
+  magazineSize: 30
+  extensionMagSize: 40
+  fireRate: 1
+  range: 100
+  upDelay: 1
+  weaponType: 3
+  weaponStyle: 1
+  muzzle: {fileID: 0}
+  isMuzzle: 1
+  grib: {fileID: 0}
+  isGrib: 0
+  sight: {fileID: 0}
+  isSight: 0
+  mag: {fileID: 0}
+  isMag: 1
+  buttstock: {fileID: 0}
+  isButt: 1
+  isThrowing: 0
+  references:
+    version: 2
+    RefIds: []

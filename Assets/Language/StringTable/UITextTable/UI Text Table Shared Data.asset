@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text Table
+  m_TableCollectionNameGuidString: 320867ef844910f40bd016fc94d26019
+  m_Entries:
+  - m_Id: 6913212416
+    m_Key: bag_same_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181706637312
+    m_Key: bag_higher_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 476591374336
+    m_Key: space_enough_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1476869388976128
+    m_Key: no_way_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2582423322705920
+    m_Key: no_item_way_key
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6916923323003961344
+  references:
+    version: 2
+    RefIds:
+    - rid: 6916923323003961344
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1680702481494

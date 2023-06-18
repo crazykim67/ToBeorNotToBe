@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e2e713a693ef6c43b4667a71806e9a1, type: 3}
+  m_Name: Angle_Grib
+  m_EditorClassIdentifier: 
+  itemType: 3
+  itemTypeStr:
+    m_TableReference:
+      m_TableCollectionName: GUID:be926765df4bdc341a839690abe9679f
+    m_TableEntryReference:
+      m_KeyId: 2197345438482432
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  itemName:
+    m_TableReference:
+      m_TableCollectionName: GUID:558b7f7ad6c56624d917ca3eff0b2e8c
+    m_TableEntryReference:
+      m_KeyId: 2209815162994688
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  weight: 6
+  itemExplain:
+    m_TableReference:
+      m_TableCollectionName: GUID:660d81891ed82e44fbd6488ec3714be5
+    m_TableEntryReference:
+      m_KeyId: 2195372362383360
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  itemPrefab: {fileID: 2503691562446451928, guid: 62d0bf20d9066fb43a33b8970bcc838d,
+    type: 3}
+  itemCode: 11
+  clip: {fileID: 8300000, guid: da3f77bbf7c375b429369e254e8de2d0, type: 3}
+  img: {fileID: 2800000, guid: 77d3352aa9d01ed498756e148f136fff, type: 3}
+  bagLevel: 0
+  volume: 0
+  bulletType: 0
+  weaponData: {fileID: 0}
+  attachmentData: {fileID: 11400000, guid: 52abe46c2063c454581c03aa98725af7, type: 2}
+  delay: 0
+  amount: 0
+  duration: 0
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ItemExplainTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 660d81891ed82e44fbd6488ec3714be5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 33031143424
+    m_Localized: Increasing the inventory space by 100.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286169972736
+    m_Localized: Increasing the inventory space by 150.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333838237696
+    m_Localized: Increasing the inventory space by 200.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1290915495936
+    m_Localized: 'Restore hp to 70.
+
+      Weight : 8'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1446171852800
+    m_Localized: 'Restore hp to 10.
+
+      Weight : 1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1515046518784
+    m_Localized: 'Restore hp to 100.
+
+      Weight : 10'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1627692941312
+    m_Localized: 'Fill the stamina 30.
+
+      Weight : 6'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2146398322688
+    m_Localized: 'Fill the stamina 70.
+
+      Weight : 8'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 360222863343616
+    m_Localized: 'Damage : 10
+
+      Magazine Size : 12
+
+      Extension Magazine
+      Size : 24
+
+      RPM :
+
+      Weapon Type: Pistol'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705053233987584
+    m_Localized: 'It has proper power and low recoil, and is light enough to carry
+      a lot of ammunition.
+
+      Weight : 1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 931276308561920
+    m_Localized: 'Damage : 20
+
+      Magazine Size : 30
+
+      Extension Magazine
+      Size : 40
+
+      RPM :
+
+      Weapon Type: Assult Rifle'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1136414872780800
+    m_Localized: 'Aiming Speed : x 1.15
+
+      Weight : 5'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2190102307487744
+    m_Localized: 'Gun recoil control
+
+      Aiming Speed : x 1.25'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2195372362383360
+    m_Localized: 'Gun recoil control
+
+      Aiming Speed : x 1.25'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2880462675460096
+    m_Localized: Increases the magazine capacity in the pistol.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11934373004656640
+    m_Localized: 'Damage : 18
+
+      Magazine Size : 30
+
+      Extension Magazine
+      Size : 40
+
+      RPM :
+
+      Weapon Type: Assult Rifle'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15214264932319232
+    m_Localized: Increases the magazine capacity in the Assult Rifle.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ItemTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 558b7f7ad6c56624d917ca3eff0b2e8c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 13078839296
+    m_Localized: Bag(Lv.1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154963755008
+    m_Localized: Bag(Lv.2)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201193373696
+    m_Localized: Bag(Lv.3)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 289374420992
+    m_Localized: Adrenaline
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509046898688
+    m_Localized: First Aid Kit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621286473728
+    m_Localized: Bandage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686205911040
+    m_Localized: Medical Kit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 761116180480
+    m_Localized: Pills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13151148916736
+    m_Localized: PickUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19428398809088
+    m_Localized: Using
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19541745680384
+    m_Localized: s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372429550469120
+    m_Localized: HK-45
+    m_Metadata:
+      m_Items: []
+  - m_Id: 718925617643520
+    m_Localized: 9mm Ammo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 944180701380608
+    m_Localized: M4 Carbine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147827141951488
+    m_Localized: Hologram Sight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2204810905337856
+    m_Localized: Vertical Handle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2209815162994688
+    m_Localized: Angle Handle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2894699388944384
+    m_Localized: Extension Magazine (Pistol)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11948626050760704
+    m_Localized: M16A1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15228981688090624
+    m_Localized: Extension Magazine (AR)
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

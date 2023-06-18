@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ItemTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ItemTable
+  m_TableCollectionNameGuidString: 558b7f7ad6c56624d917ca3eff0b2e8c
+  m_Entries:
+  - m_Id: 13078839296
+    m_Key: bag1_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154963755008
+    m_Key: bag2_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201193373696
+    m_Key: bag3_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 289374420992
+    m_Key: ad_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509046898688
+    m_Key: aid_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621286473728
+    m_Key: bandage_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686205911040
+    m_Key: med_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 761116180480
+    m_Key: pill_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13151148916736
+    m_Key: pickup_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19428398809088
+    m_Key: using_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19541745680384
+    m_Key: sec_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372429550469120
+    m_Key: hk45_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 718925617643520
+    m_Key: 9mm_box_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 944180701380608
+    m_Key: m4carbine_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147827141951488
+    m_Key: hologram_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2204810905337856
+    m_Key: vertical_grib_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2209815162994688
+    m_Key: angle_grib_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2894699388944384
+    m_Key: extension_mag_pistol_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11948626050760704
+    m_Key: m16_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15228981688090624
+    m_Key: extension_mag_ar_key
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6916923298926559238
+  references:
+    version: 2
+    RefIds:
+    - rid: 6916923298926559238
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1680612725763

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ItemTypeTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ItemTypeTable
+  m_TableCollectionNameGuidString: be926765df4bdc341a839690abe9679f
+  m_Entries:
+  - m_Id: 92426682368
+    m_Key: bag_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153739018240
+    m_Key: ammo_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197552717824
+    m_Key: weapon_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303278538752
+    m_Key: cure_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353446608896
+    m_Key: kit_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410451394560
+    m_Key: material_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1138388649328640
+    m_Key: attach_sight_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2194885319802880
+    m_Key: attach_muzzle_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2197345438482432
+    m_Key: attach_grib_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2886771810451456
+    m_Key: attach_mag_pistol_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15220183011377152
+    m_Key: attach_mag_ar_key
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6916923298926559244
+  references:
+    version: 2
+    RefIds:
+    - rid: 6916923298926559244
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1680614851165
